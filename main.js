@@ -50,3 +50,21 @@
         // → true
         // console.log("Pearl" == "Amethyst")
         // → false
+        // this run with Browser
+//========================= Program Structure ===============================//
+        // let caught = 5 * 5;
+        // console.log(caught) // ==> 25
+        // let ten = 10;
+        // console.log(ten * ten);
+        // let mood = "light";
+        // console.log(mood);
+        // // → light
+        // mood = "dark";
+        // console.log(mood);
+        // var name = "Ayda";
+        // const greeting = "Hello ";
+        // console.log(greeting + name);
+        // // → Hello Ayda
+        // // → dark
+        // → 100
+
